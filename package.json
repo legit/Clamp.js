@@ -1,0 +1,22 @@
+{
+  "name": "Clamp.js",
+  "version": "0.0.0",
+  "description": "Clamps (ie. cuts off) an HTML element's content by adding ellipsis to it if the  content inside is too long.",
+  "main": "clamp.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/banterchat/Clamp.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banterchat/Clamp.js/issues"
+  },
+  "homepage": "https://github.com/banterchat/Clamp.js"
+}
